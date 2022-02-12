@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#developed{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    font: size 18px;
+    background-color:grey;
+    line-height:3;
+    text-align:center;
+    text-shadow: 3px 3px 3px rgb(250, 254, 255);
+}
+.header_div{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: grey
+}
+.header_div p{
+    letter-spacing:3px;
+   color: white
+}
